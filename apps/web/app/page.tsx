@@ -154,13 +154,13 @@ export default function Home() {
                       ))}
                     </div>
                     {p.link ? (
-                      <a href={p.link} className="btn btn-success btn-sm" style={{ width: "100%" }}>
+                      <Link href={p.link} className="btn btn-success btn-sm" style={{ width: "100%" }}>
                         ⚡ جرّب المشروع حي الآن
-                      </a>
+                      </Link>
                     ) : (
-                      <a href="#order" className="btn btn-outline btn-sm" style={{ width: "100%" }}>
+                      <Link href="#order" className="btn btn-outline btn-sm" style={{ width: "100%" }}>
                         اطلب زي المشروع ده
-                      </a>
+                      </Link>
                     )}
                   </div>
                 </div>
