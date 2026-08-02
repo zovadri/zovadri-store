@@ -28,7 +28,7 @@ jobs:
         run: npm run build --workspace=apps/web
         env:
           NEXT_STATIC: "1"
-          NEXT_PUBLIC_BASE_PATH: "/zovadri"
+          NEXT_PUBLIC_BASE_PATH: "/${{ github.event.repository.name }}"
       - uses: actions/upload-pages-artifact@v3
         with:
           path: apps/web/out
