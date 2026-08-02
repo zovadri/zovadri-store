@@ -1,0 +1,287 @@
+{
+  "site": {
+    "whatsapp": "201039866876",
+    "phoneDisplay": "01039866876",
+    "facebook": "https://www.facebook.com/people/Zovadri/61591990170275/",
+    "tagline": "زوفادري: فريق برمجي مصري بينفذلك مواقع، متاجر، تطبيقات موبايل، وبوتات — بجودة عالية وأسعار منطقية."
+  },
+  "portfolio": [
+    {
+      "title": "موقع حجز مواعيد عيادة أسنان",
+      "description": "حجز مواعيد أونلاين 24 ساعة: اختيار الطبيب والموعد، تذكير تلقائي على واتساب، وملف طبي لكل مريض.",
+      "category": "موقع",
+      "tags": [
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "link": "/demo/booking",
+      "featured": true,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2306b6d4%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%230ea5e9%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%A6%B7%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%85%D9%88%D9%82%D8%B9%20%D8%AD%D8%AC%D8%B2%20%D9%85%D9%88%D8%A7%D8%B9%D9%8A%D8%AF%20%D8%B9%D9%8A%D8%A7%D8%AF%D8%A9%20%D8%A3%D8%B3%D9%86%D8%A7%D9%86%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "بوت واتساب لاستقبال الطلبات",
+      "description": "بوت واتساب بيستقبل طلبات عملائك تلقائياً: تأكيد الأسعار، حساب الإجمالي، وتحويل المحادثة لموظف عند الحاجة.",
+      "category": "بوت",
+      "tags": [
+        "WhatsApp API",
+        "Node.js"
+      ],
+      "link": "/demo/bot-wa",
+      "featured": true,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2310b981%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23059669%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%A4%96%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D8%A8%D9%88%D8%AA%20%D9%88%D8%A7%D8%AA%D8%B3%D8%A7%D8%A8%20%D9%84%D8%A7%D8%B3%D8%AA%D9%82%D8%A8%D8%A7%D9%84%20%D8%A7%D9%84%D8%B7%D9%84%D8%A8%D8%A7%D8%AA%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "تطبيق توصيل طلبات المطاعم",
+      "description": "تطبيق موبايل لمطعم: قائمة طعام تفاعلية، طلب مباشر، تتبع الطلب Live على الخريطة، وإشعارات فورية بالحالة.",
+      "category": "تطبيق",
+      "tags": [
+        "Flutter",
+        "Firebase",
+        "Maps"
+      ],
+      "link": "/demo/food",
+      "featured": true,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%238b5cf6%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236366f1%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%9B%B5%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%AA%D9%88%D8%B5%D9%8A%D9%84%20%D8%B7%D9%84%D8%A8%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D8%B7%D8%A7%D8%B9%D9%85%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "متجر إلكتروني للملابس",
+      "description": "متجر ملابس كامل: كتالوج منتجات، فلترة بالألوان والمقاسات، سلة، دفع إلكتروني، ولوحة تحكم لإدارة الطلبات والمخزون.",
+      "category": "متجر",
+      "tags": [
+        "Next.js",
+        "React",
+        "Node.js",
+        "Paymob"
+      ],
+      "link": "/demo/store",
+      "featured": true,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23f97316%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23f43f5e%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%9B%8D%EF%B8%8F%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%85%D8%AA%D8%AC%D8%B1%20%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A%20%D9%84%D9%84%D9%85%D9%84%D8%A7%D8%A8%D8%B3%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "تطبيق تتبع الميزانية",
+      "description": "تطبيق مالي شخصي: إدخال الدخل والمصروفات، تحليل الفئات، وتنبيهات تجاوز الميزانية.",
+      "category": "تطبيق",
+      "tags": [
+        "Flutter",
+        "SQLite",
+        "Charts"
+      ],
+      "link": "/demo/budget",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2314b8a6%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%230f766e%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%92%B3%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%AA%D8%AA%D8%A8%D8%B9%20%D8%A7%D9%84%D9%85%D9%8A%D8%B2%D8%A7%D9%86%D9%8A%D8%A9%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "نظام حجز صالون",
+      "description": "حجز خدمات الصالون: اختيار الخدمة والكوافير والوقت، تأكيد فوري، وتذكير قبل الموعد.",
+      "category": "موقع",
+      "tags": [
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "link": "/demo/salon",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23ec4899%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23be185d%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%92%87%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%86%D8%B8%D8%A7%D9%85%20%D8%AD%D8%AC%D8%B2%20%D8%B5%D8%A7%D9%84%D9%88%D9%86%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "منصة عقارات",
+      "description": "منصة عقارات: إعلانات شقق وفيلات ومحلات، فلترة بالسعر والموقع، معاينات وحفظ مفضلة.",
+      "category": "موقع",
+      "tags": [
+        "Next.js",
+        "Mapbox",
+        "Node.js"
+      ],
+      "link": "/demo/realestate",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23f59e0b%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23b45309%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%8F%99%EF%B8%8F%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%85%D9%86%D8%B5%D8%A9%20%D8%B9%D9%82%D8%A7%D8%B1%D8%A7%D8%AA%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "تطبيق الجيم وتتبع التمارين",
+      "description": "تطبيق لياقة: برامج تمارين أسبوعية، تتبع الإنجاز، إحصائيات، وتذكيرات بالتمرين.",
+      "category": "تطبيق",
+      "tags": [
+        "Flutter",
+        "Firebase"
+      ],
+      "link": "/demo/gym",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23ef4444%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23b91c1c%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%92%AA%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%A7%D9%84%D8%AC%D9%8A%D9%85%20%D9%88%D8%AA%D8%AA%D8%A8%D8%B9%20%D8%A7%D9%84%D8%AA%D9%85%D8%A7%D8%B1%D9%8A%D9%86%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "تطبيق مشاركة الرحلات",
+      "description": "تطبيق رحلات كامل: طلب رحلة، اختيار النوع، متابعة السواق مباشرة، والدفع من المحفظة.",
+      "category": "تطبيق",
+      "tags": [
+        "Flutter",
+        "Firebase",
+        "Maps"
+      ],
+      "link": "/demo/ride",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2306b6d4%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%230891b2%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%9A%95%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D9%85%D8%B4%D8%A7%D8%B1%D9%83%D8%A9%20%D8%A7%D9%84%D8%B1%D8%AD%D9%84%D8%A7%D8%AA%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "بوت خدمة العملاء الذكي",
+      "description": "بوت رد آلي على استفسارات العملاء: شحن، مرتجعات، دفع — بيفهم الأسئلة ويرد فوراً، وبيحول لموظف عند الحاجة.",
+      "category": "بوت",
+      "tags": [
+        "LLM",
+        "WhatsApp API",
+        "Node.js"
+      ],
+      "link": "/demo/support",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23f43f5e%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23e11d48%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%8E%A7%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D8%A8%D9%88%D8%AA%20%D8%AE%D8%AF%D9%85%D8%A9%20%D8%A7%D9%84%D8%B9%D9%85%D9%84%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B0%D9%83%D9%8A%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "نظام إدارة المدارس",
+      "description": "إدارة كاملة للمدرسة: الطلاب والدرجات، جداول الحصص، أولياء الأمور، والتقارير الفصلية.",
+      "category": "لوحة تحكم",
+      "tags": [
+        "Next.js",
+        "Prisma",
+        "Charts"
+      ],
+      "link": "/demo/school",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23eab308%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23ca8a04%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%8F%AB%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%86%D8%B8%D8%A7%D9%85%20%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%AF%D8%A7%D8%B1%D8%B3%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "منصة توظيف",
+      "description": "منصة وظائف: نشر الوظائف، فلترة بالموقع والنوع، تقديم الطلبات، ولوحة تحكم للشركات.",
+      "category": "موقع",
+      "tags": [
+        "React",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "link": "/demo/jobs",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%236366f1%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%234338ca%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%92%BC%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%85%D9%86%D8%B5%D8%A9%20%D8%AA%D9%88%D8%B8%D9%8A%D9%81%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "متجر سوبر ماركت أونلاين",
+      "description": "سوبر ماركت إلكتروني: تصفح بالفئات، سلة مشتريات، وتوصيل سريع بنفس اليوم.",
+      "category": "متجر",
+      "tags": [
+        "Next.js",
+        "Node.js",
+        "Maps"
+      ],
+      "link": "/demo/grocery",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2322c55e%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2315803d%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%A5%AC%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%85%D8%AA%D8%AC%D8%B1%20%D8%B3%D9%88%D8%A8%D8%B1%20%D9%85%D8%A7%D8%B1%D9%83%D8%AA%20%D8%A3%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "نظام حجوزات فندق",
+      "description": "حجز فنادق أونلاين: اختيار التواريخ والغرف، حساب الليالي تلقائياً، وتأكيد الحجز على واتساب.",
+      "category": "موقع",
+      "tags": [
+        "React",
+        "Node.js",
+        "Paymob"
+      ],
+      "link": "/demo/hotel",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%230ea5e9%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%230284c7%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%8F%A8%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%86%D8%B8%D8%A7%D9%85%20%D8%AD%D8%AC%D9%88%D8%B2%D8%A7%D8%AA%20%D9%81%D9%86%D8%AF%D9%82%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "منصة تعليمية أونلاين",
+      "description": "منصة كورسات كاملة: تسجيل الطلاب، تتبع تقدم التعلم، اختبارات، وشهادات إتمام تلقائية.",
+      "category": "موقع",
+      "tags": [
+        "Next.js",
+        "Stripe",
+        "PostgreSQL"
+      ],
+      "link": "/demo/lms",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%237c3aed%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%236d28d9%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%93%9A%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%85%D9%86%D8%B5%D8%A9%20%D8%AA%D8%B9%D9%84%D9%8A%D9%85%D9%8A%D8%A9%20%D8%A3%D9%88%D9%86%D9%84%D8%A7%D9%8A%D9%86%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "نظام كاشير لمقهى",
+      "description": "نظام كاشير شامل: فواتير سريعة بلمسة، شاشة مينيو، تقارير يومية للمبيعات، وإدارة العاملين.",
+      "category": "أخرى",
+      "tags": [
+        "React",
+        "Node.js",
+        "Print"
+      ],
+      "link": "/demo/pos",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23a16207%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23854d0e%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%E2%98%95%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%86%D8%B8%D8%A7%D9%85%20%D9%83%D8%A7%D8%B4%D9%8A%D8%B1%20%D9%84%D9%85%D9%82%D9%87%D9%89%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "تطبيق إدارة المشاريع للفريلانسرز",
+      "description": "تطبيق يدير مهامك ومشاريعك: تتبع الوقت لكل مهمة، مهام يومية، وفواتير جاهزة لكل عميل.",
+      "category": "تطبيق",
+      "tags": [
+        "Flutter",
+        "REST API",
+        "SQLite"
+      ],
+      "link": "/demo/tasks",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2314b8a6%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%230d9488%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%93%8B%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%20%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9%20%D9%84%D9%84%D9%81%D8%B1%D9%8A%D9%84%D8%A7%D9%86%D8%B3%D8%B1%D8%B2%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "بوت تيليجرام لإدارة الكورسات",
+      "description": "بوت تيليجرام لمنصة تعليمية: تسجيل الطلاب في الكورسات، تفعيل كوبونات خصم، وإشعارات بالمحاضرات الجديدة.",
+      "category": "بوت",
+      "tags": [
+        "Telegram Bot",
+        "Node.js"
+      ],
+      "link": "/demo/bot-tg",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%233b82f6%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%232563eb%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%8E%93%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D8%A8%D9%88%D8%AA%20%D8%AA%D9%8A%D9%84%D9%8A%D8%AC%D8%B1%D8%A7%D9%85%20%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D8%A7%D9%84%D9%83%D9%88%D8%B1%D8%B3%D8%A7%D8%AA%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "موقع تعريفي لشركة مقاولات",
+      "description": "موقع شركات المقاولات: معرض مشاريع منفذة، نظام طلب عروض أسعار، وصفحات احترافية ترفع مصداقية الشركة.",
+      "category": "موقع",
+      "tags": [
+        "Next.js",
+        "Tailwind CSS"
+      ],
+      "link": "/demo/contractor",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%2364748b%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23334155%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%8F%97%EF%B8%8F%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%85%D9%88%D9%82%D8%B9%20%D8%AA%D8%B9%D8%B1%D9%8A%D9%81%D9%8A%20%D9%84%D8%B4%D8%B1%D9%83%D8%A9%20%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A7%D8%AA%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    },
+    {
+      "title": "لوحة تحكم إدارة مخازن",
+      "description": "نظام مخازن شامل: إدخال وصرف، تنبيهات انخفاض المخزون، دعم الباركود، وتقارير مبيعات لحظية.",
+      "category": "لوحة تحكم",
+      "tags": [
+        "Next.js",
+        "Prisma",
+        "Charts"
+      ],
+      "link": "/demo/inventory",
+      "featured": false,
+      "image": "data:image/svg+xml;utf8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20width%3D%22600%22%20height%3D%22400%22%3E%3Cdefs%3E%3ClinearGradient%20id%3D%22g%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23f59e0b%22%2F%3E%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%23d97706%22%2F%3E%3C%2FlinearGradient%3E%3C%2Fdefs%3E%3Crect%20width%3D%22600%22%20height%3D%22400%22%20fill%3D%22url(%23g)%22%2F%3E%3Ctext%20x%3D%22300%22%20y%3D%22200%22%20font-size%3D%22150%22%20text-anchor%3D%22middle%22%20dominant-baseline%3D%22middle%22%3E%F0%9F%93%A6%3C%2Ftext%3E%3Ctext%20x%3D%22300%22%20y%3D%22330%22%20font-size%3D%2228%22%20text-anchor%3D%22middle%22%20font-family%3D%22Segoe%20UI%2C%20sans-serif%22%20fill%3D%22rgba(255%2C255%2C255%2C0.95)%22%20font-weight%3D%22bold%22%3E%D9%84%D9%88%D8%AD%D8%A9%20%D8%AA%D8%AD%D9%83%D9%85%20%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9%20%D9%85%D8%AE%D8%A7%D8%B2%D9%86%3C%2Ftext%3E%3C%2Fsvg%3E",
+      "pages": []
+    }
+  ]
+}

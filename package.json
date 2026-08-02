@@ -1,0 +1,27 @@
+{
+  "name": "zovadri",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zovadri - Egyptian multi-vendor marketplace (Next.js + Express + PostgreSQL + Prisma)",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace=apps/web & npm run dev --workspace=apps/api",
+    "dev:web": "npm run dev --workspace=apps/web",
+    "dev:api": "npm run dev --workspace=apps/api",
+    "build": "npm run build --workspace=apps/web && npm run build --workspace=apps/api",
+    "db:generate": "npm run generate --workspace=packages/db",
+    "db:push": "prisma db push --schema=packages/db/prisma/schema.prisma",
+    "db:seed": "npm run seed --workspace=packages/db",
+    "db:deploy": "prisma migrate deploy --schema=packages/db/prisma/schema.prisma",
+    "db:reset": "prisma db push --force-reset --schema=packages/db/prisma/schema.prisma"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "allowScripts": {
+    "@prisma/engines@6.19.3": true
+  }
+}

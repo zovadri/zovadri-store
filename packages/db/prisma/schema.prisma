@@ -1,0 +1,65 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  CUSTOMER
+  ADMIN
+}
+
+enum OrderStatus {
+  NEW
+  CONTACTED
+  IN_PROGRESS
+  DELIVERED
+  CANCELLED
+}
+
+model User {
+  id           String   @id @default(cuid())
+  name         String
+  email        String   @unique
+  phone        String   @unique
+  passwordHash String
+  role         Role     @default(CUSTOMER)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+}
+
+model PortfolioItem {
+  id          String    @id @default(cuid())
+  title       String
+  description String
+  image       String?
+  category    String    @default("موقع")
+  tags        String[]
+  link        String?
+  featured    Boolean   @default(false)
+  pagesJson   String?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+}
+
+model ProjectOrder {
+  id          String      @id @default(cuid())
+  orderNumber String      @unique
+  name        String
+  phone       String
+  service     String
+  budget      String?
+  details     String
+  status      OrderStatus @default(NEW)
+  notes       String?
+  createdAt   DateTime    @default(now())
+  updatedAt   DateTime    @updatedAt
+}
+
+model Setting {
+  key   String @id
+  value String @default("")
+}
