@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.local
+.next/
+dist/
+build/
+*.log
+.DS_Store
+coverage/
+uploads/
+*.bak
+apps/web/components/demos/
+scripts/seed-portfolio.ts
